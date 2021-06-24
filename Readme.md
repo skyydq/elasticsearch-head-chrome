@@ -1,3 +1,4 @@
+下载后解压，打开chrome 浏览器扩展，加载该文件夹
 ## Synopsis
 
 Chrome Extension containing the excellent [ElasticSearch Head](https://github.com/mobz/elasticsearch-head) application.
